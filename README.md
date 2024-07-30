@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Wirdan Fauzi Rahman, S.Kep, Ners, M.Kep 👋
 
-<!--
-**admin-efarina/admin-efarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Head of Academy at Akademi Keperawatan RS Efarina
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am dedicated to advancing the field of nursing through education, research, and innovation. Here you can find my contributions related to healthcare management, clinical practice, and academic leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔬 **Expertise:** Healthcare management, clinical practice, academic leadership
+- 🎓 **Education:** Bachelor of Nursing (S.Kep), Professional Nurse (Ners), Master of Nursing (M.Kep)
+- 🏫 **Position:** Head of Academy at Akademi Keperawatan RS Efarina
+- 🌐 **Location:** Indonesia
+
+## Get in Touch
+
+Feel free to reach out to me for collaboration, research, or any professional inquiries.
+
+- 📧 **Email:** [admin@efarina.ac.id](mailto:admin@efarina.ac.id)
+- 🌐 **Website:** [efarina.ac.id](https://www.efarina.ac.id)
+
+Thank you for visiting my profile. Let's connect and work together to make a difference in healthcare!
+
+---
+
+*Wirdan Fauzi Rahman, S.Kep, Ners, M.Kep*
